@@ -28,7 +28,7 @@
 		#appie_jumboframe {
 			text-align: center;
 			width: 100%;
-			height: 50%;
+			height: 70%;
 		}
 		.appie_content {
 			border: 3px solid #ded;
@@ -61,6 +61,21 @@
             padding-left:1em;
             padding-right:1em;
         }
+	#about\.md h1:before {
+	    font-family: "Glyphicons Halflings";
+  	    content:"\e030";
+   	    padding-right: 1em;
+	}
+	#info\.md h1:before {
+	    font-family: "Glyphicons Halflings";
+	    content:"\e003";
+   	    padding-right: 1em;
+	}
+	#contact\.md h1:before {
+	    font-family: "Glyphicons Halflings";
+	    content:"\e146";
+   	    padding-right: 1em;
+	}
 
     </style>
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
@@ -104,7 +119,16 @@
 		{
 			$(jq(key)).empty().append(JSONDATA[key]);
 		}
-	}   
+		$("h1, h2, h3, h4, h5, h6").click(heading_click);
+	}
+
+    function heading_click(event) {
+        if ( $(this).next().is(":visible") ) { 
+	    $(this).nextUntil($(this).prop("nodeName")).slideUp();
+        } else {
+            $(this).nextUntil($(this).prop("nodeName")).slideDown();
+        }
+    }
     </script>    
   </head>
 <body>
@@ -117,17 +141,17 @@
 			<div id="about.md" class="appie_content"><h1>Jaar Salo project</h1></div>
 		</div>
 		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">			
-			<div class="appie_content"><h1>Achtergrond informatie</h1></div>
+			<div id="info.md" class="appie_content"><h1>Achtergrond informatie</h1></div>
 		</div>
 		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
 			<div id="contact.md" class="appie_content"><h1>Vanalles</h1></div>
 		</div>
-    </div>
+    </div><!--
     <div id="appie_footer" class="row">
 			<div class="appie_footer">
             <div>© Copyright Jan Samsom & Arnaud Loonstra</div>
             </div>
-    </div>
+    </div>-->
 </div>
 <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
