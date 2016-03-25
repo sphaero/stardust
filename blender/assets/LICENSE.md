@@ -8,3 +8,5 @@ Assets used from blendswap.com
 * "Deck Chair" by north.star, Released under Creative Commons Attribution 3.0, Downloaded from http://www.blendswap.com/blends/view/41615
 * "heavy duty bicycle" by ericblender7, Released under Creative Commons Attribution-NonCommercial 3.0, Downloaded from http://www.blendswap.com/blends/view/77449
 * "Barcelona Armchair" by Marcin_HRN, Released under Creative Commons Attribution 3.0, Downloaded from http://www.blendswap.com/blends/view/4785
+* "Simple Toilet" by eva11dragon, Released under Creative Commons Attribution-ShareAlike 3.0, Download from http://www.blendswap.com/blends/view/72900
+* "side table" by arataca, Released under Creative Commons Attribution 3.0, Downloaded from http://www.blendswap.com/blends/view/42330
