@@ -1,7 +1,7 @@
 Jaar Salo
 =========
 
-Een nieuw concept in duurzaam wonen en natuurbeleving. Project Jaar Salo stelt als doel om zelfvoorziendend te kunnen wonen in harmonie met de omgeving. 
+Een nieuw concept in duurzaam wonen en natuurbeleving. Project Jaar Salo stelt als doel om zelfvoorzienend te kunnen wonen in harmonie met de omgeving. 
 
 De volgende principes worden gehanteerd voor de realisatie:
 

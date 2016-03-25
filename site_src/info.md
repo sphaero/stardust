@@ -1,7 +1,7 @@
 ...!!!
 ======
 
-De Jaar Salo off grid woning bestaat globaal uit twee onderdelen: een 20 ft. zeecontainer die voor 3/5 deel ondergronds wordt geplaatst en gekoppeld is aan een bovengronds deel. Dit bovengrondse deel bepaalt et unieke karakter van de unit.
+De Jaar Salo off grid woning bestaat globaal uit twee onderdelen: een 20 ft. zeecontainer die voor 3/5 deel ondergronds wordt geplaatst en gekoppeld is aan een bovengronds deel. Dit bovengrondse deel bepaalt het unieke karakter van de unit.
 
 De container is de 'motor' van het huis en herbergt tevens de 'huishoudelijke functies' slapen, koken, eten en sanitair.
 
@@ -31,4 +31,3 @@ Afhankelijk van de locatie specifieke mogelijkheden zal gebruikt worden gemaakt 
     * pelletkachel, 
     * warmtepomp-warmwatervat, 
     * micro-warmtekrachtkoppeling, 
-    * stirlingmotor
