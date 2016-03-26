@@ -10,3 +10,4 @@ Assets used from blendswap.com
 * "Barcelona Armchair" by Marcin_HRN, Released under Creative Commons Attribution 3.0, Downloaded from http://www.blendswap.com/blends/view/4785
 * "Simple Toilet" by eva11dragon, Released under Creative Commons Attribution-ShareAlike 3.0, Download from http://www.blendswap.com/blends/view/72900
 * "side table" by arataca, Released under Creative Commons Attribution 3.0, Downloaded from http://www.blendswap.com/blends/view/42330
+* "Sayre Pendant Light", Released under Creative Commons Attribution 3.0, Downloaded from http://www.blendswap.com/blends/view/82427
