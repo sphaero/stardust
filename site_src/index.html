@@ -120,6 +120,7 @@
 			$(jq(key)).empty().append(JSONDATA[key]);
 		}
 		$("h1, h2, h3, h4, h5, h6").click(heading_click);
+		$(".appie_content h1").nextUntil("h1").slideUp();
 	}
 
     function heading_click(event) {
