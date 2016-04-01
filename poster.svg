@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="420mm"
+   height="297mm"
+   viewBox="0 0 420 297"
+   id="SVGRoot"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="poster.svg"
+   inkscape:export-filename="/home/aloonstra/Documents/projects/stardust/poster.svg.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="796.26669"
+     inkscape:cy="562.93791"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1596"
+     inkscape:window-height="864"
+     inkscape:window-x="0"
+     inkscape:window-y="16"
+     inkscape:window-maximized="0"
+     showguides="false"
+     inkscape:snap-text-baseline="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid3392" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="0,1488.189"
+       id="guide3394" />
+    <sodipodi:guide
+       position="420,0"
+       orientation="-1052.3622,0"
+       id="guide3396" />
+    <sodipodi:guide
+       position="420,297.00001"
+       orientation="0,-1488.189"
+       id="guide3398" />
+    <sodipodi:guide
+       position="0,297.00001"
+       orientation="1052.3622,0"
+       id="guide3400" />
+  </sodipodi:namedview>
+  <defs
+     id="defs3378">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath4416">
+      <rect
+         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4418"
+         width="90.311111"
+         height="84.666664"
+         x="25.08626"
+         y="111.27486" />
+    </clipPath>
+  </defs>
+  <metadata
+     id="metadata3381">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <image
+       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_60001.png"
+       xlink:href="blender/renders/jaarsalo_60001.png"
+       y="-0.46222848"
+       x="-1.110223e-16"
+       id="image3499"
+       preserveAspectRatio="none"
+       height="238.12502"
+       width="423.33334" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Binnen"
+     style="display:inline"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4495"
+       width="124.38531"
+       height="100.39048"
+       x="13.002482"
+       y="206.68311" />
+    <image
+       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_50002.png"
+       xlink:href="blender/renders/jaarsalo_50002.png"
+       y="212.36699"
+       x="18.626665"
+       id="image3578"
+       preserveAspectRatio="none"
+       height="64.026527"
+       width="112.88889" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4495-5"
+       width="124.38531"
+       height="100.39048"
+       x="148.46913"
+       y="206.68304" />
+    <image
+       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_50003.png"
+       xlink:href="blender/renders/jaarsalo_50003.png"
+       y="212.33328"
+       x="154.09331"
+       id="image3589"
+       preserveAspectRatio="none"
+       height="64.026535"
+       width="112.88889" />
+    <rect
+       style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect4495-59"
+       width="124.38531"
+       height="100.39048"
+       x="283.93585"
+       y="206.68311" />
+    <image
+       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_50004.png"
+       xlink:href="blender/renders/jaarsalo_50004.png"
+       y="212.27432"
+       x="289.56003"
+       id="image3600"
+       preserveAspectRatio="none"
+       height="64.026535"
+       width="112.88889" />
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4192"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(1.6933333,62.088885)"><flowRegion
+         id="flowRegion4194"><rect
+           id="rect4196"
+           width="112.60667"
+           height="14.111127"
+           x="16.933332"
+           y="217.97777"
+           style="text-align:center;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara4200"
+         style="font-size:4.23333311px;text-align:center;text-anchor:middle">door de ondergrondse plaatsing van de container ervaart men de omgeving op maaiveldhoogte</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4192-0"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(154.85693,281.24915)"><flowRegion
+         id="flowRegion4194-6"><rect
+           id="rect4196-0"
+           width="112.88889"
+           height="14.111112"
+           x="0.36529312"
+           y="-1.1824816" /></flowRegion><flowPara
+         id="flowPara4200-8"
+         style="font-size:4.23333359px;text-align:center;text-anchor:middle">het ondergrondse deel herbergt de 'motor' en de functies' slapen, koken, eten en sanitair</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot4192-0-9"
+       style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       transform="translate(290.34591,280.33107)"><flowRegion
+         id="flowRegion4194-6-1"><rect
+           id="rect4196-0-1"
+           width="111.35856"
+           height="17.671921"
+           x="-0.38447276"
+           y="-1.0029888" /></flowRegion><flowPara
+         id="flowPara4200-8-7"
+         style="font-size:4.23333359px;text-align:center;text-anchor:middle">het bovengrondse deel functioneert als woonruimte met de blik naar de hemel en 360 graden rondom</flowPara></flowRoot>  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Plattegrond"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.35600567px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="-72.152084"
+       y="226.33171"
+       id="text4176"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="-72.152084"
+         y="226.33171"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.67800283px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+         id="tspan4188" /></text>
+    <image
+       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/plattegrond_10001.png"
+       xlink:href="blender/renders/plattegrond_10001.png"
+       width="178.08005"
+       height="100.17002"
+       preserveAspectRatio="none"
+       id="image4371"
+       x="465.38663"
+       y="102.098" />
+    <image
+       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/plattegrond_10002.png"
+       xlink:href="blender/renders/plattegrond_10002.png"
+       clip-path="url(#clipPath4416)"
+       style="image-rendering:auto"
+       y="108.31724"
+       x="4.0962138"
+       id="image3679"
+       preserveAspectRatio="none"
+       height="85.95388"
+       width="148.30379"
+       transform="matrix(1.4480053,0,0,1.4480053,-33.458446,-44.014814)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:13.35600567px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="49.1777"
+       y="126.53353"
+       id="text4393"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4395"
+         x="49.1777"
+         y="126.53353"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00850248px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1">6 m</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="titel"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0.00282222px;word-spacing:-0.00282222px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="211.31348"
+       y="196.73811"
+       id="text3691"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3693"
+         x="211.31348"
+         y="196.73811"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.75555611px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:2.82222223px;word-spacing:0px;fill:#ffffff;fill-opacity:1"
+         dx="0">JAAR  SALO</tspan></text>
+    <path
+       style="display:inline;fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.30000004;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 223.34266,199.19641 105.54475,0"
+       id="path4399"
+       inkscape:connector-curvature="0" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer5"
+     inkscape:label="logo"
+     sodipodi:insensitive="true"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0.00282222px;word-spacing:-0.00282222px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       x="203.42374"
+       y="196.52475"
+       id="text3691-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3693-8"
+         x="203.42374"
+         y="196.52475"
+         style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:19.75555611px;font-family:Ubuntu;-inkscape-font-specification:'Ubuntu Medium';letter-spacing:2.82222223px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke-width:0.28200001;stroke-miterlimit:4;stroke-dasharray:none"
+         dx="0">JAAR    SALO</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.28200001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 210.47989,199.60322 134.85172,0"
+       id="path4986"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.28200001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 270.62107,199.49167 0,-1.11121 3.39452,-0.94939 0.29984,0.94939 3.10441,-0.94939 0.30002,0.94939 2.99764,-0.94939 0.32104,0.94939 0.28576,0 -0.008,-0.31053 0.23891,-0.78373 0.54129,-0.78373 0.75501,-0.68687 0.85582,-0.33409 0.81749,0 0.86712,0.36124 0.66554,0.66361 0.47796,0.75659 0.27636,0.80698 0,-4.67065 0.33019,0 0,6.19198 z"
+       id="path4988"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccccccccccccccccccccc" />
+  </g>
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.69621313;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 24.70783,129.04847 55.023098,0"
+     id="path4374"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34810656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 24.640689,127.64312 0,2.863"
+     id="path4376"
+     inkscape:connector-curvature="0" />
+  <path
+     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34810656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+     d="m 79.72426,127.64302 0,2.86301"
+     id="path4376-1"
+     inkscape:connector-curvature="0" />
+</svg>
