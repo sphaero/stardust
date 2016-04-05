@@ -28,10 +28,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.49497475"
-     inkscape:cx="796.26669"
+     inkscape:cx="805.35806"
      inkscape:cy="562.93791"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer3"
+     inkscape:current-layer="layer2"
      showgrid="false"
      inkscape:window-width="1596"
      inkscape:window-height="864"
@@ -93,14 +93,14 @@
      sodipodi:insensitive="true"
      style="display:inline">
     <image
-       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_60001.png"
-       xlink:href="blender/renders/jaarsalo_60001.png"
-       y="-0.46222848"
-       x="-1.110223e-16"
-       id="image3499"
-       preserveAspectRatio="none"
+       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_80001.png"
+       xlink:href="blender/renders/jaarsalo_80001.png"
+       width="423.33334"
        height="238.12502"
-       width="423.33334" />
+       preserveAspectRatio="none"
+       id="image3499"
+       x="-1.110223e-16"
+       y="-0.46222848" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -116,14 +116,14 @@
        x="13.002482"
        y="206.68311" />
     <image
-       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_50002.png"
-       xlink:href="blender/renders/jaarsalo_50002.png"
-       y="212.36699"
-       x="18.626665"
-       id="image3578"
-       preserveAspectRatio="none"
+       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_80002.png"
+       xlink:href="blender/renders/jaarsalo_80002.png"
+       width="112.88889"
        height="64.026527"
-       width="112.88889" />
+       preserveAspectRatio="none"
+       id="image3578"
+       x="18.626665"
+       y="212.36699" />
     <rect
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4495-5"
@@ -132,14 +132,14 @@
        x="148.46913"
        y="206.68304" />
     <image
-       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_50003.png"
-       xlink:href="blender/renders/jaarsalo_50003.png"
-       y="212.33328"
-       x="154.09331"
-       id="image3589"
-       preserveAspectRatio="none"
+       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_80003.png"
+       xlink:href="blender/renders/jaarsalo_80003.png"
+       width="112.88889"
        height="64.026535"
-       width="112.88889" />
+       preserveAspectRatio="none"
+       id="image3589"
+       x="154.09331"
+       y="212.33328" />
     <rect
        style="display:inline;fill:#ffffff;fill-opacity:1;stroke:none"
        id="rect4495-59"
@@ -148,14 +148,14 @@
        x="283.93585"
        y="206.68311" />
     <image
-       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_50004.png"
-       xlink:href="blender/renders/jaarsalo_50004.png"
-       y="212.27432"
-       x="289.56003"
-       id="image3600"
-       preserveAspectRatio="none"
+       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_80004.png"
+       xlink:href="blender/renders/jaarsalo_80004.png"
+       width="112.88889"
        height="64.026535"
-       width="112.88889" />
+       preserveAspectRatio="none"
+       id="image3600"
+       x="289.56003"
+       y="212.27432" />
     <flowRoot
        xml:space="preserve"
        id="flowRoot4192"
@@ -181,7 +181,7 @@
            x="0.36529312"
            y="-1.1824816" /></flowRegion><flowPara
          id="flowPara4200-8"
-         style="font-size:4.23333359px;text-align:center;text-anchor:middle">het ondergrondse deel herbergt de 'motor' en de functies' slapen, koken, eten en sanitair</flowPara></flowRoot>    <flowRoot
+         style="font-size:4.23333359px;text-align:center;text-anchor:middle">het ondergrondse deel herbergt de 'motor' en de functies slapen, koken, eten en sanitair</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot4192-0-9"
        style="font-style:normal;font-weight:normal;font-size:11.28888893px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -198,7 +198,8 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="Plattegrond"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.35600567px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
@@ -214,24 +215,24 @@
     <image
        sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/plattegrond_10001.png"
        xlink:href="blender/renders/plattegrond_10001.png"
-       width="178.08005"
-       height="100.17002"
-       preserveAspectRatio="none"
-       id="image4371"
+       y="102.098"
        x="465.38663"
-       y="102.098" />
+       id="image4371"
+       preserveAspectRatio="none"
+       height="100.17002"
+       width="178.08005" />
     <image
        sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/plattegrond_10002.png"
        xlink:href="blender/renders/plattegrond_10002.png"
-       clip-path="url(#clipPath4416)"
-       style="image-rendering:auto"
-       y="108.31724"
-       x="4.0962138"
-       id="image3679"
-       preserveAspectRatio="none"
-       height="85.95388"
+       transform="matrix(1.4480053,0,0,1.4480053,-33.458446,-44.014814)"
        width="148.30379"
-       transform="matrix(1.4480053,0,0,1.4480053,-33.458446,-44.014814)" />
+       height="85.95388"
+       preserveAspectRatio="none"
+       id="image3679"
+       x="4.0962138"
+       y="108.31724"
+       style="image-rendering:auto"
+       clip-path="url(#clipPath4416)" />
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:13.35600567px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
