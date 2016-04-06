@@ -18,8 +18,8 @@
    inkscape:version="0.91 r13725"
    sodipodi:docname="poster.svg"
    inkscape:export-filename="/home/aloonstra/Documents/projects/stardust/poster.svg.png"
-   inkscape:export-xdpi="90"
-   inkscape:export-ydpi="90">
+   inkscape:export-xdpi="149.98708"
+   inkscape:export-ydpi="149.98708">
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
@@ -27,15 +27,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="805.35806"
-     inkscape:cy="562.93791"
+     inkscape:zoom="0.7"
+     inkscape:cx="767.14558"
+     inkscape:cy="579.99532"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer6"
      showgrid="false"
-     inkscape:window-width="1596"
-     inkscape:window-height="864"
-     inkscape:window-x="0"
+     inkscape:window-width="1916"
+     inkscape:window-height="1044"
+     inkscape:window-x="1600"
      inkscape:window-y="16"
      inkscape:window-maximized="0"
      showguides="false"
@@ -61,19 +61,7 @@
        id="guide3400" />
   </sodipodi:namedview>
   <defs
-     id="defs3378">
-    <clipPath
-       clipPathUnits="userSpaceOnUse"
-       id="clipPath4416">
-      <rect
-         style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:0;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-         id="rect4418"
-         width="90.311111"
-         height="84.666664"
-         x="25.08626"
-         y="111.27486" />
-    </clipPath>
-  </defs>
+     id="defs3378" />
   <metadata
      id="metadata3381">
     <rdf:RDF>
@@ -82,7 +70,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,8 +78,8 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <image
        sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/jaarsalo_80001.png"
        xlink:href="blender/renders/jaarsalo_80001.png"
@@ -196,55 +184,49 @@
          style="font-size:4.23333359px;text-align:center;text-anchor:middle">het bovengrondse deel functioneert als woonruimte met de blik naar de hemel en 360 graden rondom</flowPara></flowRoot>  </g>
   <g
      inkscape:groupmode="layer"
-     id="layer3"
-     inkscape:label="Plattegrond"
-     style="display:inline"
+     id="layer6"
+     inkscape:label="Plattegrond 1"
      sodipodi:insensitive="true">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.35600567px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-72.152084"
-       y="226.33171"
-       id="text4176"
-       sodipodi:linespacing="125%"><tspan
+       style="font-style:normal;font-weight:normal;font-size:13.35600567px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="53.359035"
+       y="123.1497"
+       id="text4393"
+       sodipodi:linespacing="125%"
+       clip-path="none"><tspan
          sodipodi:role="line"
-         x="-72.152084"
-         y="226.33171"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:6.67800283px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
-         id="tspan4188" /></text>
-    <image
-       sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/plattegrond_10001.png"
-       xlink:href="blender/renders/plattegrond_10001.png"
-       y="102.098"
-       x="465.38663"
-       id="image4371"
-       preserveAspectRatio="none"
-       height="100.17002"
-       width="178.08005" />
+         id="tspan4395"
+         x="53.359035"
+         y="123.1497"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00850248px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1">6 m</tspan></text>
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.69621319;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.889166,125.66463 55.023104,0"
+       id="path4374"
+       inkscape:connector-curvature="0"
+       clip-path="none" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34810659;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 28.822025,124.25928 0,2.863"
+       id="path4376"
+       inkscape:connector-curvature="0"
+       clip-path="none" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34810659;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 83.9056,124.25918 0,2.86301"
+       id="path4376-1"
+       inkscape:connector-curvature="0"
+       clip-path="none" />
     <image
        sodipodi:absref="/home/aloonstra/Documents/projects/stardust/blender/renders/plattegrond_10002.png"
        xlink:href="blender/renders/plattegrond_10002.png"
-       transform="matrix(1.4480053,0,0,1.4480053,-33.458446,-44.014814)"
-       width="148.30379"
-       height="85.95388"
+       width="212.92899"
+       height="123.2814"
        preserveAspectRatio="none"
-       id="image3679"
-       x="4.0962138"
-       y="108.31724"
-       style="image-rendering:auto"
-       clip-path="url(#clipPath4416)" />
-    <text
-       xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:13.35600567px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="49.1777"
-       y="126.53353"
-       id="text4393"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4395"
-         x="49.1777"
-         y="126.53353"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.00850248px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;fill:#ffffff;fill-opacity:1">6 m</tspan></text>
+       id="image4637"
+       x="-22.425455"
+       y="109.80604" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -275,8 +257,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="logo"
-     sodipodi:insensitive="true"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:16.93333435px;line-height:125%;font-family:Ubuntu;-inkscape-font-specification:Ubuntu;letter-spacing:0.00282222px;word-spacing:-0.00282222px;display:inline;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.28200001;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -303,19 +285,4 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="ccccccccccccccccccccccc" />
   </g>
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.69621313;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 24.70783,129.04847 55.023098,0"
-     id="path4374"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34810656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 24.640689,127.64312 0,2.863"
-     id="path4376"
-     inkscape:connector-curvature="0" />
-  <path
-     style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:0.34810656;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-     d="m 79.72426,127.64302 0,2.86301"
-     id="path4376-1"
-     inkscape:connector-curvature="0" />
 </svg>
