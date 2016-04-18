@@ -1,0 +1,452 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SCRIBUSUTF8NEW Version="1.4.5">
+    <DOCUMENT ANZPAGES="8" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="60" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" PRESET="0" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" ORIENTATION="1" PAGESIZE="A4" FIRSTNUM="1" BOOK="0" AUTOTEXT="1" AUTOSPALTEN="2" ABSTSPALTEN="24" UNITS="0" DFONT="Arial Regular" DSIZE="12" DCOL="1" DGAP="0" TabFill="" TabWidth="36" AUTHOR="" COMMENTS="" KEYWORDS="" PUBLISHER="" DOCDATE="" DOCTYPE="" DOCFORMAT="" DOCIDENT="" DOCSOURCE="" DOCLANGINFO="" DOCRELATION="" DOCCOVER="" DOCRIGHTS="" DOCCONTRIB="" TITLE="" SUBJECT="" VHOCH="33" VHOCHSC="66" VTIEF="33" VTIEFSC="66" VKAPIT="75" BASEGRID="14.4" BASEO="0" AUTOL="20" UnderlinePos="-1" UnderlineWidth="-1" StrikeThruPos="-1" StrikeThruWidth="-1" GROUPC="1" HCMS="0" DPSo="0" DPSFo="0" DPuse="0" DPgam="0" DPbla="1" DPMo="CineonLog M " DPPr="Fogra27L CMYK Coated Press" DPIn="CineonLog M " DPInCMYK="Fogra27L CMYK Coated Press" DPIn2="CineonLog M " DPIn3="Fogra27L CMYK Coated Press" DISc="1" DIIm="0" ALAYER="0" LANGUAGE="Dutch" MINWORDLEN="3" HYCOUNT="2" AUTOMATIC="1" AUTOCHECK="0" GUIDELOCK="0" SnapToGuides="1" SnapToGrid="0" MINGRID="20" MAJGRID="100" SHOWGRID="0" SHOWGUIDES="1" showcolborders="1" SHOWFRAME="1" SHOWLAYERM="0" SHOWMARGIN="1" SHOWBASE="0" SHOWPICT="1" SHOWControl="0" SHOWLINK="0" rulerMode="1" showrulers="1" showBleed="1" rulerXoffset="0" rulerYoffset="0" GuideRad="10" GRAB="4" POLYC="4" POLYF="0.707106781186548" POLYR="0" POLYCUR="0" POLYFD="0" POLYS="0" AutoSave="1" AutoSaveTime="600000" ScratchBottom="20" ScratchLeft="100" ScratchRight="100" ScratchTop="20" GapHorizontal="0" GapVertical="40" StartArrow="0" EndArrow="0" PEN="Black" BRUSH="None" PENLINE="Black" PENTEXT="Black" StrokeText="Black" TextBackGround="None" TextLineColor="None" TextBackGroundShade="100" TextLineShade="100" TextPenShade="100" TextStrokeShade="100" STIL="1" STILLINE="1" WIDTH="1" WIDTHLINE="1" PENSHADE="100" LINESHADE="100" BRUSHSHADE="100" MAGMIN="10" MAGMAX="3200" MAGSTEP="200" CPICT="None" PICTSHADE="100" PICTSCX="1" PICTSCY="1" PSCALE="1" PASPECT="1" EmbeddedPath="0" HalfRes="1" dispX="10" dispY="10" constrain="15" MINORC="#00ff00" MAJORC="#00ff00" GuideC="#000080" BaseC="#c0c0c0" GuideZ="10" BACKG="1" PAGEC="#ffffff" MARGC="#0000ff" RANDF="0" currentProfile="PostScript">
+        <CheckProfile Name="PDF 1.3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.4" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF 1.5" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="0" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PDF/X-3" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="1" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <CheckProfile Name="PostScript" ignoreErrors="0" autoCheck="1" checkGlyphs="1" checkOrphans="1" checkOverflow="1" checkPictures="1" checkResolution="1" checkTransparency="1" minResolution="144" maxResolution="2400" checkAnnotations="0" checkRasterPDF="1" checkForGIF="1" ignoreOffLayers="0" checkOffConflictLayers="0"/>
+        <COLOR NAME="Black" CMYK="#000000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Blue" RGB="#0000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cool Black" CMYK="#990000ff" Spot="0" Register="0"/>
+        <COLOR NAME="Cyan" CMYK="#ff000000" Spot="0" Register="0"/>
+        <COLOR NAME="Green" RGB="#00ff00" Spot="0" Register="0"/>
+        <COLOR NAME="Magenta" CMYK="#00ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Red" RGB="#ff0000" Spot="0" Register="0"/>
+        <COLOR NAME="Registration" CMYK="#ffffffff" Spot="0" Register="1"/>
+        <COLOR NAME="Rich Black" CMYK="#996666ff" Spot="0" Register="0"/>
+        <COLOR NAME="Warm Black" CMYK="#00994cff" Spot="0" Register="0"/>
+        <COLOR NAME="White" CMYK="#00000000" Spot="0" Register="0"/>
+        <COLOR NAME="Yellow" CMYK="#0000ff00" Spot="0" Register="0"/>
+        <HYPHEN/>
+        <STYLE NAME="Default Paragraph Style" DefaultStyle="1" ALIGN="3" LINESPMode="0" LINESP="15" INDENT="0" RMARGIN="0" FIRST="10" VOR="0" NACH="0" DROP="0" DROPLIN="2" DROPDIST="0" FONT="Liberation Sans Regular" FONTSIZE="11"/>
+        <STYLE NAME="Heading1" PARENT="Default Paragraph Style" FIRST="0" VOR="24" NACH="14" CPARENT="Default Character Style" FONT="Liberation Sans Bold" FONTSIZE="20"/>
+        <STYLE NAME="Heading2" PARENT="Default Paragraph Style" FIRST="0" VOR="20" NACH="14" CPARENT="Default Character Style" FONT="Liberation Sans Bold" FONTSIZE="16" SCALEV="104"/>
+        <STYLE NAME="list" PARENT="Default Paragraph Style" ALIGN="0" INDENT="16" FIRST="-6"/>
+        <STYLE NAME="Unindented" PARENT="Default Paragraph Style" INDENT="10" FIRST="0"/>
+        <CHARSTYLE CNAME="Default Character Style" DefaultStyle="1" FONT="Liberation Sans Regular" FONTSIZE="12" FEATURES="inherit" FCOLOR="Black" FSHADE="100" SCOLOR="Black" SSHADE="100" TXTSHX="5" TXTSHY="-5" TXTOUT="1" TXTULP="-0.1" TXTULW="-0.1" TXTSTP="-0.1" TXTSTW="-0.1" SCALEH="100" SCALEV="100" BASEO="0" KERN="0" LANGUAGE="Dutch"/>
+        <LAYERS NUMMER="0" LEVEL="0" NAME="Achtergrond" SICHTBAR="1" DRUCKEN="1" EDIT="1" FLOW="1" TRANS="1" BLEND="0" OUTL="0" LAYERC="#000000"/>
+        <Printer firstUse="1" toFile="1" useAltPrintCommand="1" outputSeparations="1" useSpotColors="1" useColor="1" mirrorH="1" mirrorV="1" useICC="1" doGCR="1" doClip="1" setDevParam="1" useDocBleeds="1" cropMarks="1" bleedMarks="1" registrationMarks="1" colorMarks="1" includePDFMarks="1" PSLevel="-591118" PDLanguage="-591118" markOffset="nan" BleedTop="0" BleedLeft="0" BleedRight="0" BleedBottom="0" printer="" filename="" separationName="" printerCommand=""/>
+        <PDF firstUse="0" Thumbnails="0" Articles="0" Bookmarks="0" Compress="1" CMethod="0" Quality="0" EmbedPDF="0" MirrorH="0" MirrorV="0" Clip="0" RotateDeg="0" PresentMode="0" RecalcPic="0" Grayscale="0" RGBMode="1" UseProfiles="0" UseProfiles2="0" Binding="0" PicRes="300" Resolution="300" Version="14" Intent="1" Intent2="0" SolidP="CineonLog M " ImageP="CineonLog M " PrintP="Fogra27L CMYK Coated Press" InfoString="" BTop="0" BLeft="0" BRight="0" BBottom="0" useDocBleeds="0" cropMarks="0" bleedMarks="0" registrationMarks="0" colorMarks="0" docInfoMarks="0" markOffset="0" ImagePr="0" PassOwner="" PassUser="" Permissions="-4" Encrypt="0" UseLayers="0" UseLpi="0" UseSpotColors="1" doMultiFile="0" displayBookmarks="0" displayFullscreen="0" displayLayers="0" displayThumbs="0" hideMenuBar="0" hideToolBar="0" fitWindow="0" PageLayout="0" openAction="">
+            <Fonts Name="Liberation Sans Bold"/>
+            <Fonts Name="Liberation Sans Regular"/>
+            <Fonts Name="Liberation Serif Italic"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <Effekte pageEffectDuration="1" pageViewDuration="1" effectType="0" Dm="0" M="0" Di="0"/>
+            <LPI Color="" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Black" Frequency="133" Angle="45" SpotFunction="3"/>
+            <LPI Color="Cyan" Frequency="133" Angle="105" SpotFunction="3"/>
+            <LPI Color="Magenta" Frequency="133" Angle="75" SpotFunction="3"/>
+            <LPI Color="Yellow" Frequency="133" Angle="90" SpotFunction="3"/>
+        </PDF>
+        <DocItemAttributes/>
+        <TablesOfContents>
+            <TableOfContents Name="Inhoudsopgave 1" ItemAttributeName="None" FrameName="TOC" ListNonPrinting="0" Style="Default Paragraph Style" NumberPlacement="End"/>
+        </TablesOfContents>
+        <PageSets>
+            <Set Name="Single Page" FirstPage="0" Rows="1" Columns="1"/>
+            <Set Name="Double Sided" FirstPage="1" Rows="1" Columns="2">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="3-Fold" FirstPage="0" Rows="1" Columns="3">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+            <Set Name="4-Fold" FirstPage="0" Rows="1" Columns="4">
+                <PageNames Name="Left Page"/>
+                <PageNames Name="Middle Left"/>
+                <PageNames Name="Middle Right"/>
+                <PageNames Name="Right Page"/>
+            </Set>
+        </PageSets>
+        <Sections>
+            <Section Number="0" Name="0" From="0" To="7" Type="Type_1_2_3" Start="1" Reversed="0" Active="1"/>
+        </Sections>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="60" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="Normaal" MNAM="" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <MASTERPAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="60" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="Titel" MNAM="" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="20" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="60" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="0" NAM="" MNAM="Titel" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="20" AGverticalAutoGap="24" AGhorizontalAutoCount="1" AGverticalAutoCount="1" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="655.28" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="60" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="1" NAM="" MNAM="Normaal" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="0 " AGhorizontalAutoGap="20" AGverticalAutoGap="24" AGhorizontalAutoCount="1" AGverticalAutoCount="1" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1290.56" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="60" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="2" NAM="" MNAM="Normaal" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="20" AGverticalAutoGap="24" AGhorizontalAutoCount="1" AGverticalAutoCount="1" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="1925.84" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="60" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="3" NAM="" MNAM="Normaal" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="0" AGverticalAutoGap="0" AGhorizontalAutoCount="0" AGverticalAutoCount="0" AGhorizontalAutoRefer="0" AGverticalAutoRefer="0" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="2561.12" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="60" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="4" NAM="" MNAM="Normaal" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="20" AGverticalAutoGap="24" AGhorizontalAutoCount="1" AGverticalAutoCount="1" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3196.4" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="60" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="5" NAM="" MNAM="Normaal" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="20" AGverticalAutoGap="24" AGhorizontalAutoCount="1" AGverticalAutoCount="1" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="3831.68" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="60" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="6" NAM="" MNAM="Normaal" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="20" AGverticalAutoGap="24" AGhorizontalAutoCount="1" AGverticalAutoCount="1" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0"/>
+        <PAGE PAGEXPOS="100" PAGEYPOS="4466.96" PAGEWIDTH="841.89" PAGEHEIGHT="595.28" BORDERLEFT="60" BORDERRIGHT="40" BORDERTOP="40" BORDERBOTTOM="40" NUM="7" NAM="" MNAM="Normaal" Size="A4" Orientation="1" LEFT="0" PRESET="0" VerticalGuides="" HorizontalGuides="" AGhorizontalAutoGap="20" AGverticalAutoGap="24" AGhorizontalAutoCount="1" AGverticalAutoCount="1" AGhorizontalAutoRefer="1" AGverticalAutoRefer="1" AGSelection="0 0 0 0"/>
+        <MASTEROBJECT OwnPage="0" PTYPE="4" XPOS="826.14" YPOS="577.28" WIDTH="75.75" HEIGHT="17.97" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 75.75 0 75.75 0 75.75 0 75.75 0 75.75 17.97 75.75 17.97 75.75 17.97 75.75 17.97 0 17.97 0 17.97 0 17.97 0 17.97 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 75.75 0 75.75 0 75.75 0 75.75 0 75.75 17.97 75.75 17.97 75.75 17.97 75.75 17.97 0 17.97 0 17.97 0 17.97 0 17.97 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="Normaal" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <var name="pgno"/>
+            <trail ALIGN="1"/>
+            <PageItemAttributes/>
+        </MASTEROBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="542.945" YPOS="696.28" WIDTH="358.945" HEIGHT="515.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="24" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 515.28 358.945 515.28 358.945 515.28 358.945 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 515.28 358.945 515.28 358.945 515.28 358.945 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="8" BACKITEM="-1">
+            <ITEXT CH="Introductie"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="Klimaatsverandering en energievraagstukken staan wereldwijd ter discussie. Iedereen heeft het erover en heeft er een mening over.  Veel onderzoeken laten zien dat snel ingrijpen hard nodig is, wellicht met verstrekkende maatregelen. Er bestaat geen eensgezindsheid over waar dit ingrijpen uit moet bestaan. De spreekwoordelijke stip op de horizon lijkt hier het noodzakelijke richt- en ijkpunt. Waar staan we in 2100 als we lineair doordenken. Wat zijn de consequenties en wat kan/moet daar aan gedaan worden. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Klimaatverandering en waterproblematiek spelen een essentiële rol. Een top-down benadering in de grootst mogelijke samenhang en gemeenschappelijkheid is noodzakelijk om tot een overkoepelende visie en strategie te komen. Hiervoor ligt de uitdaging en taak bij de combinatie van politiek, wetenschap en bedrijfsleven."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Tegelijkertijd met deze top-down benadering, is er ruimte voor een bottom-up beweging. Deze begint bij de bewustwording en betrokkenheid van het individu. De top-down en bottom-up krachten moeten elkaar stimuleren en positief beïnvloeden. Bij de bottom-up beweging is het tevens belangrijk het grote geheel in ogenschouw te nemen. Omdat de top-down visie nog niet uitgekristalliseerd en zichtbaar is, is het daarom goed bij de bottom-up beweging het zogenaamde 'no-regrets' principe te hanteren. Onderneem vanuit een breed perspectief, combineer denkrichtingen en blokkeer toekomstige ontwikkelingen niet."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="In het project dat wij ons voorstellen willen wij ons richten op de doorontwikkeling van een individuele zelfvoorzienende woning: Jaar Salo. Vanuit deze woning kan het individu volledig zelfstandig opereren en vormt daarmee een positieve speler in het energievraagstuk. Deze speler kan krachtiger opereren door hem aan anderen te koppelen. Een team van spelers vormt daarmee de voedingsbodem voor een (kleinschalige) gemeenschap. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Onze ambitie is dit concept toe te passen ten aanzien van bestaande krimpgemeenten, bijvoorbeeld in de provincie Groningen."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Jaar Salo"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="Jaar Salo is een nieuw concept in duurzaam wonen en natuurbeleving. Het project stelt als doel om zelfvoorzienend te kunnen wonen in harmonie met de omgeving."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="De volgende principes worden gehanteerd voor de realisatie:"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="- off grid - volledig zelfstandig en los van bestaande netwerken "/>
+            <tab/>
+            <para PARENT="list"/>
+            <ITEXT CH="- duurzaam - zowel in fabricage als gebruik "/>
+            <tab/>
+            <para PARENT="list"/>
+            <ITEXT CH="- unieke beleving van de omgeving "/>
+            <para PARENT="list"/>
+            <ITEXT CH="- modulair - basisunit met diverse uitbreidingsmogelijkheden "/>
+            <para PARENT="list"/>
+            <ITEXT CH="- open source - alle toegepaste kennis en techniek is openbaar "/>
+            <para PARENT="list"/>
+            <ITEXT CH="Korte beschrijving"/>
+            <para PARENT="Heading2"/>
+            <ITEXT CH="Jaar Salo speelt in op een groeiende behoefte in de maatschappij naar duurzaamheid. Binnen deze behoefte geven wij zelfvoorziening en de beleving van de directe omgeving een significante rol. Zelfvoorzienend wonen levert onafhankelijkheid en vrijheid op. Wij ontwerpen een off-grid woning, uitgerust met alle moderne gemakken. De woning, met deze uitgangspunten, is het middelpunt van het Jaar Salo project. De start van een breder concept."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Een zelfvoorzienende woning heeft een aantal praktische consequenties. Sommige consequenties zijn eenvoudiger op te lossen in gezamenlijkheid. Bijvoorbeeld de opslag van energie of het reinigen van water. Hierin zien we het begin van de voordelen van verbondenheid en collectiviteit. Het Jaar Salo concept houdt rekening met zowel individuele onafhankelijkheid alsmede collectiviteit. Hiervoor maken we gebruik van verschillende oplossingen voor zelfvoorziening (modulariteit) alsmede voor collectiviteit door verbindingen aan te gaan (interfacing). Hiermee biedt Jaar Salo de mogelijkheid tot decentralisatie en de ontwikkeling van kleinschalige gemeenschappen."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="De woning is zodanig vormgegeven en geplaatst dat hij een sterke verbinding aangaat met de omgeving. De Jaar Salo off-grid woning bestaat globaal uit twee onderdelen: een zeecontainer die voor 3/5 deel ondergronds wordt geplaatst en gekoppeld is aan een bovengronds deel. Door de ondergrondse plaatsing van de container ervaart men de omgeving op maaiveldhoogte. De container is de 'motor' van het huis en herbergt tevens de 'huishoudelijke functies' slapen, koken, eten en sanitair. Een aan de container gekoppeld trapportaal verbindt de onder- en bovenwereld. Het bovengrondse deel is in beeldende zin bepalend voor het geheel. Het functioneert als verblijfsruimte en heeft een sterke binding met de omgeving. De blik wordt zowel naar de hemel gericht als 360 graden rondom. Dit bovengrondse deel bepaalt het unieke karakter van de unit en is op de situatie af te stemmen. De combinatie van het ondergrondse en bovengrondse deel wekt de associatie met een ‘individuele’ energie centrale."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Huidige ontwikkelingen en kansen"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="We zijn de ontwikkeling van Jaar Salo gestart vanuit de gedachte zelfvoorzienend te kunnen zijn. Enerzijds vanuit duurzaamheid, anderzijds om flexibeler en vrijer te kunnen opereren. Locaties die normaliter buiten beeld blijven als woonplek zijn door de grotere flexibiliteit juist extra interessant. De off-grid gedachte en de veel compactere en lichtere manier van bouwen maken lastige locaties als bijvoorbeeld slibdepots, of kwetsbare locaties van bijvoorbeeld Staatsbosbeheer tot spannende opties. Het opent nieuwe concepten ten aanzien van wonen."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Het concept van een zelfvoorzienende woning zoals Jaar Salo voor ogen heeft is niet uniek en op zichzelf staand. De ‘Tiny House’ beweging, die zich deels ook op autarkie richt is erg populair aan het worden. Er zijn reeds vele initiatieven en ondernemingen die zelfvoorzienende woonconcepten ontwikkelen. Een aantal voorbeelden zijn: Sustainerhomes, Wikkelhouse, Ecocapsule, Waldenstudio, het autonome huis (België), Heijmans-One, etc. Deze initiatieven verschillen qua motief en doelgroep. Wat opvalt is dat veel van de initiatieven weinig inbedding kennen in de samenleving en erg op zichzelf staan."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Naast deze vrij solitaire ontwikkeltrajecten is ook de opzet van off-grid gemeenschappen te signaleren. Voorbeelden zijn: Kompost Helbergen in Zutphen en Ecodorp Boekel en in Kopenhagen de projecten van N55. De BouwExpo-Tinyhousing 2016 in Almere biedt ruimte voor off-grid experimenten en iets verder in de toekomst is Growing Green Cities in het kader van de Floriade 2022 in Almere gepland. Allemaal heel mooie projecten, maar wel voornamelijk als eilandjes bedacht en ontwikkeld."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="In veel gevallen zijn de ontwikkelingen richting autarkie en off-grid gericht op energie- en milieuvraagstukken. Dat is heel waardevol en noodzakelijk, maar wij zien meer mogelijkheden. Wij denken dat de kracht van autarkie is te benutten voor een breder scala aan maatschappelijke ontwikkelingen. Te denken valt aan gebieden waar krimp een economisch en maatschappelijk probleem vormt. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="In delen van Groningen loopt een aantal dorpen in de buitengebieden letterlijk leeg. Gemeenschappen raken ontwricht en dreigen soms te verdwijnen. Niet alleen leegstand vormt hier een probleem, maar ook de vergrijzing en de verandering van de bevolkingssamenstelling (Braindrain). Een sterke trek naar de stad is waarneembaar (behalve voor kansarmen). "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Toch is er ook weer een omgekeerde beweging waarneembaar"/>
+            <ITEXT FEATURES="inherit superscript" CH="1"/>
+            <ITEXT CH=". Mogelijk ligt de oorsprong hiervan bij het nieuwe werken en wellicht ook de wens om 'natuurlijker' te leven.  Het is belangrijk de demografische toekomst zo goed mogelijk in beeld te brengen. Om de toekomst positief te beïnvloeden zal het de betreffende gemeenschappen helpen een sterker gemeenschappelijk doel te creëren. Zelfvoorzienend worden kan zo'n gemeenschappelijk doel zijn en een vorm van autonomie en eigenwaarde opleveren. Autarkie als middel en motor."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Provincie Groningen"/>
+            <para PARENT="Heading2"/>
+            <ITEXT CH="De provincie Groningen kampt op meerdere fronten met problemen en een slecht imago. Zeker de aardbevingsproblematiek ten gevolge van de gaswinning is een heet hangijzer. Het zorgt voor heel veel onrust in het ommeland, maar de laatste tijd ook meer en meer in de stad Groningen zelf. De meeste voelbare en zichtbare schade ondervindt men in het Noordelijk en Oostelijk buitengebied. Het is juist ook dit gebied waar de meest evidente gevolgen van krimp te signaleren zijn"/>
+            <ITEXT FEATURES="inherit superscript" CH="2"/>
+            <ITEXT CH=". De problemen hebben naast concrete nadelen ook potentiële voordelen. Er ontstaat steeds meer aandacht voor deze problematiek, ook vanuit de overheid. Er komen steeds meer initiatieven op zowel het gebied van krimp als energie transitie. Dit gebeurt op regionaal en lokaal niveau."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Er gebeurt daarom al veel in Groningen. Wij willen daar op in spelen en bij aansluiten. Een aantal initiatieven, programma's en organisaties op een rij:"/>
+            <tab/>
+            <ITEXT CH=" "/>
+            <tab/>
+            <ITEXT CH=" "/>
+            <tab/>
+            <ITEXT CH=" "/>
+            <tab/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="- IABR, de Internationale Architectuur Biënnale Rotterdam, Atelier Groningen. Onder leiding van JanDirk Hoekstra is een programma doorlopen 'naar een nieuw energielandschap', de opgave van energietransitie."/>
+            <para PARENT="list"/>
+            <ITEXT CH="- CBK Groningen, energievelden, project energietransitie."/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Hanzehogeschool Groningen, Lectoraat Energietransitie (Wim van Gemert)"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Centrum Energie en Milieukunde (R.U.G. - hoogleraar Henk Mol)"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Transition Academy &amp; Academie van Bouwkunst Groningen – Urban Gro Lab"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- KKNN, Kenniscentrum Krimp Noord-Nederland"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Groninger Seaports – Hendré Sijbring – Stichting Seaports EXperiece Center"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Roeg&amp;Roem, duurzame dorpen in Groningen. Kleinschalige initiatieven"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Platform GRAS"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Woon- en Leefbaarheidsplan Eemsdelta"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Woonstichting Het Groninger Huis (conferentie Nieuwolda)"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Deel&amp;Ulrum"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- KAW architecten en adviseurs, Tijmen Hordijk"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Coöperatie Energiesprong"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Provincie Groningen, Bevolkingsdaling, programmacoördinator Dorine Sibbes"/>
+            <para PARENT="list"/>
+            <ITEXT CH="- Gronings Gereedschap (transitiefonds particuliere woningvoorraad)"/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
+            <para PARENT="list"/>
+            <ITEXT CH="Waar willen we ons op richten"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="De uitdaging ten aanzien van Jaar Salo is momenteel tweeledig:"/>
+            <tab/>
+            <ITEXT CH=" "/>
+            <tab/>
+            <ITEXT CH=" "/>
+            <tab/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="1. Jaar Salo 'plus' : het uitbouwen van onze off-grid woning tot een meer dan 'individuele energiecentrale'. "/>
+            <tab/>
+            <ITEXT CH=" "/>
+            <tab/>
+            <ITEXT CH=" "/>
+            <tab/>
+            <para PARENT="list"/>
+            <ITEXT CH="2. Onderzoek: Het onderzoek naar en ontwikkelen van een gericht gemeenschapsprogramma inzake autarkie in Groningen. Waar, met wie en hoe?"/>
+            <para PARENT="list"/>
+            <ITEXT CH="Jaar Salo 'plus'."/>
+            <para PARENT="Heading2"/>
+            <ITEXT CH="Jaar Salo kan zich overal als individuele off-grid woning nestelen. Afhankelijk van de locatie zal de juiste combinatie van energie- en water oplossingen gekozen worden. Daarmee is Jaar Salo in principe volledig onafhankelijk. Waar we naar toe willen is het geheel nog onafhankelijker maken en tegelijkertijd eenvoudig koppelbaar. Jaar Salo kan gekoppeld worden aan bestaande en nieuwe bebouwing. De koppelbare systemen kunnen coöperatief worden ingezet. We zien de Jaar Salo woning als inspirator en aanjager richting te ontwikkelen zelfvoorzienende gemeenschappen. Hiervoor willen we verschillende mogelijkheden onderzoeken. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Om Jaar Salo als aanjager en inspirator in te kunnen zetten voor het ontwikkelen van off-grid gemeenschappen is het van belang dat we een overcapaciteit aan energie-, warmte- en wateropslag creëren. Om deze surplus te realiseren willen we het funderingssysteem nader bekijken en uitbreiden. Dit systeem dient de komende tijd nader uitgewerkt te worden. Het vormt dan ook een belangrijk onderdeel van ons werkplan tot oktober. Waar we aan denken is het gebruik van een 'drijvende' funderingsoplossing. Wij willen onder de Jaar Salo woning een bak van EPS blokken plaatsen in combinatie met spuitbeton als ware het een casco van een woonboot. Hierdoor kunnen we de woning plaatsen ongeacht de bodemgesteldheid en formuleren we tevens een antwoord op de aardbevingsproblematiek. De Jaar Salo uitbreidingen moeten nader uitgewerkt en onderzocht worden. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Voor het doorontwikkelen van Jaar Salo gaan we in eerste instantie in overleg met twee bedrijven: SealteQ group in Stadskanaal en Enervalis in Houthalen België. Onze gesprekspartners zijn Chris Uittenboogaard, directeur van Frans Nooren (onderdeel van SealteQ group en Stefan Lodeweyckx, founder en CEO van Enervalis. SealteQ is gespecialiseerd in waterdicht (spuit)betonoplossingen en Enervalis richt zich op 'the intelligent micro-grid space'. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Daarnaast gaan we verder op zoek naar podia waar we onze vragen kunnen stellen en onze ideeën tegen het licht kunnen houden. Wij zijn er van overtuigd dat de inspirerende vorm van onze 'energiecentrale' in combinatie met concrete uitbreidingsmogelijkheden naar de gemeenschap de off-grid gedachte en daarmee de aanzet tot gemeenschapszin kan stimuleren. Hoe dat te implementeren is een onderzoek op zich en vereist de nodige samenwerking met regionale en lokale instanties."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Onderzoek"/>
+            <para PARENT="Heading2"/>
+            <ITEXT CH="Ons onderzoek gaat zich richten op welke wijze en met welke partijen wij kunnen komen tot de mogelijkheid een gemeenschap autarkischer te maken. Wij zijn er van overtuigd dat een dergelijke transitie alleen bottom-up kan plaatsvinden. De gedachte van en wens om zelfvoorzienend te worden, moet van onderaf ontstaan. Dit is belangrijk naast een top-down benadering, zoals gemeld in de introductie. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Onze aandacht zal in eerste instantie gericht zijn op welke gemeenschappen bij uitstek geschikt zijn om autarkie te promoten. Onze zoektocht zal zich richten op zowel de noordelijke als oostelijke gemeenschappen binnen de provincie Groningen. Aansluiten bij locaties die al een voedingsbodem ten aanzien van bottom-up projecten laten zien heeft onze voorkeur. In het Noordwesten van de provincie heeft de gemeente De Marne onze aandacht, met name het dorp Ulrum (hier heeft het Stimuleringsfonds reeds een project ondersteunt). In het noordoosten zal onze focus in eerste instantie uitgaan naar 't Zandt binnen de gemeente Loppersum. Hier is al een affiniteit genoteerd vanuit de gemeenschap. In het oosten richting Duitse grens lijkt het dorp Wedde in de gemeente Bellingwedde een extra uitdaging te bieden. Hier zou de combinatie wonen en recreatie een extra voedingsbodem kunnen vormen. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Natuurlijk zijn er nog veel meer goede opties, maar in eerste instantie denken we er goed aan te doen deze gemeenten/gemeenschappen te benaderen. Op voorhand willen we ons niet vastleggen of we één of meerdere processen willen verder willen ontwikkelen. Onze voorkeur gaat uit naar minstens twee, vanwege het mogelijke vergelijk, maar de respons en de haalbaarheid zullen hierbij leidend zijn. In de komende periode zullen we in gesprek gaan met de lokale overheden van deze locaties en natuurlijk ook met bewoners en bewonersinitiatieven. Woningstichtingen en coöperaties zijn belangrijke gesprekspartners. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="De zoektocht naar ultieme locaties gaan wij starten door gesprekken aan te gaan met de gemeentesecretariaten van De Marne, Loppersum en Bellingwedde. Tegelijkertijd willen we in contact treden met de reeds actieve initiatieven binnen deze gemeenten."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Mogelijkheden vervolg"/>
+            <para PARENT="Heading2"/>
+            <ITEXT CH="Ook zullen we in deze periode op zoek gaan naar toekomstige partners en financieringsvormen voor het vervolgtraject. Zo is er het Transformatie&amp;Innovatie fonds en behoren 'krimpsubsidies' tot de mogelijkheden. De kansen zijn er, maar wat zijn de meest geëigende wegen. Ook dit vraagt verder onderzoek. Voor de financiële mogelijkheden ten aanzien van het vervolgtraject zullen we in eerste instantie ons licht opsteken bij platform GRAS, maar ook zeker het Stimuleringsfonds bevragen op de mogelijkheden die zij zien."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Vervolgfase na oktober 2016"/>
+            <tab/>
+            <ITEXT CH=" "/>
+            <tab/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="Natuurlijk zal de komende werkperiode bepalend zijn voor het vervolg na oktober. Toch staan belangrijke onderdelen van het vervolg ons al duidelijk voor ogen. Jaar Salo speelt hier een belangrijke rol in. De doorontwikkelde versie willen wij daadwerkelijk gaan bouwen in de gemeenschappen die als geschikt bevonden uit ons onderzoek naar voren gaan komen. Het liefst willen we Jaar Salo op een strategische plek binnen de gemeenschap tot stand brengen. Daar kan Jaar Salo inspirerend gaan werken. We zullen op zoek gaan naar een geschikte bewoner (al dan niet uit de gemeenschap afkomstig) die zich als ambassadeur voor autarkie zal opwerpen. Van hieruit moet het zwaan kleef aan principe worden gevoed en zal de zelfvoorzienende woonwijze zich binnen de gemeenschap gaan uitbreiden. Het vormt de start binnen de werkelijke wereld. "/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Daarnaast willen wij tegelijkertijd de betreffende potentiële gemeenschap met de genoemde concepten virtueel gaan bouwen. In de virtuele gemeenschap is het voor ogen staande principe al te tonen en te testen. Dit geldt vooral voor het technische en communicatieve aspecten van het project. In de virtuele omgeving kunnen we eenvoudig de inbedding van technieken testen alsmede hoe dit te gebruiken is. De zo gecreëerde virtuele gemeenschap zal als proeftuin gaan functioneren en geeft tegelijkertijd inzicht in hoe een gemeenschap tot stand komt en functioneert. Het doel is dat dit inspirerend gaat werken en de bestaande inwoners makkelijker deelgenoot worden van de stap naar autarkie."/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Wat wij vragen"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="Het onderzoek dat we hierboven beschreven hebben kost de nodige tijd en energie. In de begroting geven we aan wat dit gaat belopen. Wij willen gebruik maken van de 'open oproep sleutelen aan de huisvestingsopgave' van het Stimuleringsfonds. We vragen om subsidiëring van de directe kosten en 50% financiering van de te maken uren voor de werkperiode tot 24 oktober 2016."/>
+            <para PARENT="Default Paragraph Style"/>
+            <tab/>
+            <ITEXT CH=" "/>
+            <tab/>
+            <ITEXT CH=" "/>
+            <tab/>
+            <ITEXT CH=" "/>
+            <tab/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Totaal begroot"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="€ 26.554,-"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Voorinvestering"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="€   9.000,-"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Eigen bijdrage (50% van de te leveren arbeid)"/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="€   7.600,-"/>
+            <para PARENT="Default Paragraph Style"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="_______"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT CH="Subsidie Stimuleringsfonds"/>
+            <tab/>
+            <ITEXT CH="       "/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="€   9.954,-"/>
+            <para PARENT="Default Paragraph Style"/>
+            <para PARENT="Default Paragraph Style"/>
+            <ITEXT FONT="Liberation Serif Italic" CH="Voor een gedetailleerd overzicht verwijzen wij naar de meegestuurde begroting."/>
+            <para PARENT="Unindented"/>
+            <ITEXT CH="Wat wij leveren"/>
+            <para PARENT="Heading1"/>
+            <ITEXT CH="Subsidie toekenning stelt ons in staat het volledige traject zoals voorgesteld tot uitvoering te brengen. Dit betekent dat we een compleet plan ten aanzien van fundering en energieopslag kunnen overleggen en daarmee Jaar Salo kunnen complementeren. Daarnaast zal een rapport worden geleverd waarin het onderzoek naar mogelijkheden ten aanzien van autarkie binnen krimpgemeenten wordt weergegeven. In dit rapport zullen de conclusies van het onderzoek worden gevolgd door een voorstel voor het vervolg. Ook zal in het rapport worden opgenomen hoe we denken het vervolg te kunnen realiseren."/>
+            <trail PARENT="Default Paragraph Style"/>
+            <PageItemAttributes>
+                <ItemAttribute Name="TOC" Type="" Value="TEsterde" Parameter="" Relationship="none" RelationshipTo="" AutoAddTo="none"/>
+            </PageItemAttributes>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="160" YPOS="2601.12" WIDTH="741.89" HEIGHT="515.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="24" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 741.89 0 741.89 0 741.89 0 741.89 0 741.89 515.28 741.89 515.28 741.89 515.28 741.89 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 741.89 0 741.89 0 741.89 0 741.89 0 741.89 515.28 741.89 515.28 741.89 515.28 741.89 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="2" BACKITEM="9">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="5" PTYPE="4" XPOS="160" YPOS="3236.4" WIDTH="741.89" HEIGHT="515.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="2" COLGAP="24" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 741.89 0 741.89 0 741.89 0 741.89 0 741.89 515.28 741.89 515.28 741.89 515.28 741.89 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 741.89 0 741.89 0 741.89 0 741.89 0 741.89 515.28 741.89 515.28 741.89 515.28 741.89 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="3" BACKITEM="1">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="160" YPOS="3871.68" WIDTH="358.945" HEIGHT="515.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="24" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 515.28 358.945 515.28 358.945 515.28 358.945 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 515.28 358.945 515.28 358.945 515.28 358.945 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="10" BACKITEM="2">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="4" XPOS="256.5" YPOS="129" WIDTH="548.5" HEIGHT="85.5" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 548.5 0 548.5 0 548.5 0 548.5 0 548.5 85.5 548.5 85.5 548.5 85.5 548.5 85.5 0 85.5 0 85.5 0 85.5 0 85.5 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 548.5 0 548.5 0 548.5 0 548.5 0 548.5 85.5 548.5 85.5 548.5 85.5 548.5 85.5 0 85.5 0 85.5 0 85.5 0 85.5 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT FONT="Liberation Sans Bold" FONTSIZE="40" CH="Autarkie     Jaar Salo"/>
+            <para ALIGN="1"/>
+            <para/>
+            <ITEXT FONT="Liberation Sans Regular" FONTSIZE="20" CH="een antwoord op woning- en gemeenschapsproblematiek"/>
+            <para ALIGN="1"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="0" PTYPE="2" XPOS="308.5" YPOS="221.03" WIDTH="503.25" HEIGHT="354.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.203827460510328" LOCALSCY="0.203827460510328" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="img/dame5.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 503.25 0 503.25 0 503.25 0 503.25 0 503.25 354.25 503.25 354.25 503.25 354.25 503.25 354.25 0 354.25 0 354.25 0 354.25 0 354.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 503.25 0 503.25 0 503.25 0 503.25 0 503.25 354.25 503.25 354.25 503.25 354.25 503.25 354.25 0 354.25 0 354.25 0 354.25 0 354.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="3" PTYPE="2" XPOS="115" YPOS="1935.03" WIDTH="814.25" HEIGHT="593.25" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="0.3257" LOCALSCY="0.3257" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="0" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="poster.svg.png" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="0" EMBEDDED="0" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 814.25 0 814.25 0 814.25 0 814.25 0 814.25 593.25 814.25 593.25 814.25 593.25 814.25 593.25 0 593.25 0 593.25 0 593.25 0 593.25 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 814.25 0 814.25 0 814.25 0 814.25 0 814.25 593.25 814.25 593.25 814.25 593.25 814.25 593.25 0 593.25 0 593.25 0 593.25 0 593.25 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="1" PTYPE="4" XPOS="161" YPOS="964.92" WIDTH="358.25" HEIGHT="231.33" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="TOC" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358.25 0 358.25 0 358.25 0 358.25 0 358.25 231.33 358.25 231.33 358.25 231.33 358.25 231.33 0 231.33 0 231.33 0 231.33 0 231.33 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358.25 0 358.25 0 358.25 0 358.25 0 358.25 231.33 358.25 231.33 358.25 231.33 358.25 231.33 0 231.33 0 231.33 0 231.33 0 231.33 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <ITEXT CH="Inhoudsopgave"/>
+            <para PARENT="Heading1"/>
+            <para/>
+            <ITEXT CH="Introductie"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="2"/>
+            <para/>
+            <ITEXT CH="Jaar Salo"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="3"/>
+            <para/>
+            <ITEXT CH="    Korte beschrijving"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="3"/>
+            <para/>
+            <ITEXT CH="Huidige ontwikkelingen en kansen"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="5"/>
+            <para/>
+            <ITEXT CH="    Provincie Groningen"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="5"/>
+            <para/>
+            <ITEXT CH="Waar willen we ons op richten"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="6"/>
+            <para/>
+            <ITEXT CH="    Jaar Salo 'plus'"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="6"/>
+            <para/>
+            <ITEXT CH="    Onderzoek"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="7"/>
+            <para/>
+            <ITEXT CH="    Mogelijkheden vervolg"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="7"/>
+            <para/>
+            <ITEXT CH="Vervolgfase na oktober 2016"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="8"/>
+            <para/>
+            <ITEXT CH="Wat wij vragen"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="8"/>
+            <para/>
+            <ITEXT CH="Wat wij leveren"/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <tab/>
+            <ITEXT CH="8"/>
+            <trail/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="160" YPOS="1672.2" WIDTH="358.945" HEIGHT="183.8" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 183.8 358.945 183.8 358.945 183.8 358.945 183.8 0 183.8 0 183.8 0 183.8 0 183.8 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 183.8 358.945 183.8 358.945 183.8 358.945 183.8 0 183.8 0 183.8 0 183.8 0 183.8 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="9" BACKITEM="0">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="2" PTYPE="4" XPOS="542.945" YPOS="1330.56" WIDTH="358.945" HEIGHT="515.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="24" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 515.28 358.945 515.28 358.945 515.28 358.945 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 515.28 358.945 515.28 358.945 515.28 358.945 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="1" BACKITEM="8">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="6" PTYPE="4" XPOS="542.945" YPOS="3871.68" WIDTH="358.945" HEIGHT="306.57" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 306.57 358.945 306.57 358.945 306.57 358.945 306.57 0 306.57 0 306.57 0 306.57 0 306.57 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 306.57 358.945 306.57 358.945 306.57 358.945 306.57 0 306.57 0 306.57 0 306.57 0 306.57 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="11" BACKITEM="3">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="160" YPOS="4506.96" WIDTH="358.945" HEIGHT="416.04" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="24" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 416.04 358.945 416.04 358.945 416.04 358.945 416.04 0 416.04 0 416.04 0 416.04 0 416.04 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 416.04 358.945 416.04 358.945 416.04 358.945 416.04 0 416.04 0 416.04 0 416.04 0 416.04 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="12" BACKITEM="10">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="7" PTYPE="4" XPOS="542.945" YPOS="4506.96" WIDTH="358.945" HEIGHT="515.28" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="" TEXTFLOWMODE="0" TEXTFLOW="0" TEXTFLOW2="0" TEXTFLOW3="0" AUTOTEXT="1" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 515.28 358.945 515.28 358.945 515.28 358.945 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 515.28 358.945 515.28 358.945 515.28 358.945 515.28 0 515.28 0 515.28 0 515.28 0 515.28 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="11">
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+        <PAGEOBJECT OwnPage="4" PTYPE="4" XPOS="542.945" YPOS="3081.75" WIDTH="358.945" HEIGHT="34.6499999999996" RADRECT="0" FRTYPE="0" CLIPEDIT="0" PWIDTH="1" PCOLOR="None" PCOLOR2="None" COLUMNS="1" COLGAP="0" NAMEDLST="" SHADE="100" SHADE2="100" GRTYP="0" ROT="0" PLINEART="1" PLINEEND="0" PLINEJOIN="0" LOCALSCX="1" LOCALSCY="1" LOCALX="0" LOCALY="0" PICART="1" PLTSHOW="0" BASEOF="0" textPathType="0" textPathFlipped="0" FLIPPEDH="0" FLIPPEDV="0" SCALETYPE="1" RATIO="1" PRINTABLE="1" ANNOTATION="0" ANNAME="Footnotes" TEXTFLOWMODE="2" TEXTFLOW="1" TEXTFLOW2="1" TEXTFLOW3="0" AUTOTEXT="0" EXTRA="0" TEXTRA="0" BEXTRA="0" REXTRA="0" FLOP="0" PFILE="" PFILE2="" PFILE3="" PRFILE="" EPROF="" IRENDER="1" EMBEDDED="1" LOCK="0" LOCKR="0" REVERS="0" TransValue="0" TransValueS="0" TransBlend="0" TransBlendS="0" isTableItem="0" TopLine="0" LeftLine="0" RightLine="0" BottomLine="0" isGroupControl="0" NUMDASH="0" DASHS="" DASHOFF="0" NUMPO="16" POCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 34.65 358.945 34.65 358.945 34.65 358.945 34.65 0 34.65 0 34.65 0 34.65 0 34.65 0 0 0 0 " NUMCO="16" COCOOR="0 0 0 0 358.945 0 358.945 0 358.945 0 358.945 0 358.945 34.65 358.945 34.65 358.945 34.65 358.945 34.65 0 34.65 0 34.65 0 34.65 0 34.65 0 0 0 0 " NUMGROUP="0" GROUPS="" startArrowIndex="0" endArrowIndex="0" OnMasterPage="" ImageClip="" ImageRes="1" Pagenumber="0" isInline="0" fillRule="1" doOverprint="0" gXpos="0" gYpos="0" gWidth="0" gHeight="0" LAYER="0" BOOKMARK="0" NEXTITEM="-1" BACKITEM="-1">
+            <para PARENT="list"/>
+            <ITEXT FONT="Liberation Sans Italic" FONTSIZE="9" CH="1: https://www.cbs.nl/nl-nl/nieuws/2016/08/meer-mensen-vertrekken-uit-grote-stad"/>
+            <para PARENT="list"/>
+            <ITEXT FONT="Liberation Sans Italic" FONTSIZE="9" CH="2: http://www.provinciegroningen.nl/actueel/dossiers/krimp"/>
+            <para PARENT="list"/>
+            <PageItemAttributes/>
+        </PAGEOBJECT>
+    </DOCUMENT>
+</SCRIBUSUTF8NEW>
