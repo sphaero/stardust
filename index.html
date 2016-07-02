@@ -3,9 +3,23 @@
   <head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Jaar Salo</title>
-    <meta name="description" content="Jaar Salo / Project Stardust" />
+    <meta name="description" content="Jaar Salo: Tinyhouse" />
+
+    <!-- Facebook -->
+    <meta property="og:title" content="Jaar Salo: Tinyhouse" />
+    <meta property="og:url" content="http://jaarsalo.nl" />
+    <meta property="og:image" content="http://jaarsalo.nl/img/poster.jpg" />
+    <meta property="og:image:secure_url" content="http://jaarsalo.nl/img/poster.jpg" />
+
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="#JaarSalo" />
+    <meta name="twitter:title" content="Jaar Salo: Tinyhouse" />
+    <meta name="twitter:description" content="Jaar Salo: Tinyhouse" />
+    <meta name="twitter:image" content="http://jaarsalo.nl/img/poster.jpg" />
+
     <!-- Bootstrap -->
     <!-- Latest compiled and minified CSS -->
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
@@ -14,6 +28,7 @@
 		html {
 			height: 100%;
             min-height: 100vh;
+            overflow: hidden;
 		}
 
         @font-face {
@@ -22,12 +37,22 @@
         }
         
 		body {
+            overflow-y: scroll;
+            -webkit-overflow-scrolling: touch;
 			height: 100%;
             min-height: 100vh;
 			color: #333;
 			font-family: Ubuntu, Arial, "libra sans", sans-serif;
 		}
         
+        h1 {
+            font-size: 30px;
+        }
+
+        h2 {
+            font-size: 26px;
+        }
+
         #background {
             width: 100vw;
             height: 100vh;
@@ -45,7 +70,7 @@
 		}
 		.appie_content {
             border: 3px solid #ded;
-			padding: 1em 3em;
+			padding: 0em 3em 0.3em 3em;
 			margin: 1em 0.5em;
 			background-color: rgba(255,255,255,0.9);
 			box-shadow: 4px 4px 5px rgba(0,0,0,0.4);
@@ -81,18 +106,37 @@
             padding-left:1em;
             padding-right:1em;
         }
-	#about\.md h1:before {
+	.up::after {
 	    font-family: "Glyphicons Halflings";
-  	    content:"\e030";
+  	    content:"\e114";
+        float: right;
+        margin-top: 20px;
+        font-size: 12px;
    	    padding-right: 1em;
 	}
-	#info\.md h1:before {
+	.down::after {
+	    font-family: "Glyphicons Halflings";
+  	    content:"\e113";
+        float: right;
+        margin-top: 20px;
+        font-size: 12px;
+   	    padding-right: 1em;
+	}
+	#about\.md h1::before {
+	    font-family: "Glyphicons Halflings";
+  	    content:"\e030";
+        font-size: 24px;
+   	    padding-right: 1em;
+	}
+	#info\.md h1::before {
 	    font-family: "Glyphicons Halflings";
 	    content:"\e003";
+        font-size: 24px;
    	    padding-right: 1em;
 	}
 	#contact\.md h1:before {
 	    font-family: "Glyphicons Halflings";
+        font-size: 24px;
 	    content:"\e008";
    	    padding-right: 1em;
 	}
@@ -140,15 +184,17 @@
 			$(jq(key)).empty().append(JSONDATA[key]);
 		}
 		$("h1").click(heading_click);
-		$(".appie_content h1").nextUntil("h1").hide();
+		$(".appie_content h1").addClass('up').nextUntil("h1").hide();
 	}
 
     function heading_click(event) {
         //$(".appie_content h1").nextUntil("h1").slideUp();
         if ( $(this).next().is(":visible") ) { 
             $(this).nextUntil($(this).prop("nodeName")).slideUp();
+            $(event.currentTarget).removeClass('down').addClass('up');
         } else {
             $(this).nextUntil($(this).prop("nodeName")).slideDown();
+            $(event.currentTarget).removeClass('up').addClass('down');
         }
     }
     </script>    
@@ -161,13 +207,13 @@
 <div id="main_container" class="container-fluid">
     <div id="appie_grid" class="no-gutter row">
 		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-			<div id="about.md" class="appie_content"><h1>Jaar Salo project</h1></div>
+			<div id="about.md" class="appie_content"><h1> </h1></div>
 		</div>
 		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">			
-			<div id="info.md" class="appie_content"><h1>Achtergrond informatie</h1></div>
+			<div id="info.md" class="appie_content"><h1> </h1></div>
 		</div>
 		<div class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-			<div id="contact.md" class="appie_content"><h1>Vanalles</h1></div>
+			<div id="contact.md" class="appie_content"><h1> </h1></div>
 		</div>
     </div><!--
     <div id="appie_footer" class="row">
