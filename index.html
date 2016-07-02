@@ -15,29 +15,37 @@
 			height: 100%;
 		}
 
+        @font-face {
+            font-family: 'Ubuntu'; 
+            src: url('Ubuntu-R.ttf');
+        }
+        
 		body {
 			height: 100%;
-			background: url(img/grass30001.jpg);
+			background: url(img/jaarsalo_1.jpg);
 			background-size: cover;
 			background-position: center;
 			background-attachment: fixed;
 			color: #333;
 			font-family: Ubuntu, Arial, "libra sans", sans-serif;
-			font-weight: 300;
 		}
 		#appie_jumboframe {
 			text-align: center;
 			width: 100%;
-			height: 70%;
+			height: 55%;
 		}
 		.appie_content {
+            cursor: pointer;
 			border: 3px solid #ded;
 			padding: 1em 3em;
 			margin: 1em 0.5em;
 			background-color: rgba(255,255,255,0.9);
 			box-shadow: 4px 4px 5px rgba(0,0,0,0.4);
 		}
-		.appie_footer {
+		.appie_content img {
+            width: 100%;
+        }
+        .appie_footer {
 			background-color: rgba(255,255,255,0.9);
 			margin: 0px;
 			padding: 0px 10px;
@@ -73,7 +81,7 @@
 	}
 	#contact\.md h1:before {
 	    font-family: "Glyphicons Halflings";
-	    content:"\e146";
+	    content:"\e008";
    	    padding-right: 1em;
 	}
 
@@ -119,12 +127,14 @@
 		{
 			$(jq(key)).empty().append(JSONDATA[key]);
 		}
-		$("h1, h2, h3, h4, h5, h6").click(heading_click);
+		$("h1").click(heading_click);
+		$(".appie_content h1").nextUntil("h1").hide();
 	}
 
     function heading_click(event) {
+        //$(".appie_content h1").nextUntil("h1").slideUp();
         if ( $(this).next().is(":visible") ) { 
-	    $(this).nextUntil($(this).prop("nodeName")).slideUp();
+            $(this).nextUntil($(this).prop("nodeName")).slideUp();
         } else {
             $(this).nextUntil($(this).prop("nodeName")).slideDown();
         }
