@@ -10,3 +10,5 @@ De volgende principes worden gehanteerd voor de realisatie:
 * sustainable - duurzaam zowel in fabricage als gebruik 
 * modulair - basisunit met diverse uitbreidingsmogelijkheden
 * unieke beleving van de omgeving
+
+[![foto binnen, zicht maai hoogte](img/jaarsalo_2.jpg)](img/jaarsalo_2.jpg)
