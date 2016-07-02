@@ -13,6 +13,7 @@
     <style>
 		html {
 			height: 100%;
+            min-height: 100vh;
 		}
 
         @font-face {
@@ -22,28 +23,39 @@
         
 		body {
 			height: 100%;
-			background: url(img/jaarsalo_1.jpg);
-			background-size: cover;
-			background-position: center;
-			background-attachment: fixed;
+            min-height: 100vh;
 			color: #333;
 			font-family: Ubuntu, Arial, "libra sans", sans-serif;
 		}
+        
+        #background {
+            width: 100vw;
+            height: 100vh;
+            background: url(img/jaarsalo_1.jpg);
+			background-size: cover;
+			background-position: center;
+            background-attachment: fixed;
+            position: fixed;
+        }
+        
 		#appie_jumboframe {
 			text-align: center;
 			width: 100%;
 			height: 55%;
 		}
 		.appie_content {
-            cursor: pointer;
-			border: 3px solid #ded;
+            border: 3px solid #ded;
 			padding: 1em 3em;
 			margin: 1em 0.5em;
 			background-color: rgba(255,255,255,0.9);
 			box-shadow: 4px 4px 5px rgba(0,0,0,0.4);
+            border-radius: 3px;
 		}
 		.appie_content img {
             width: 100%;
+        }
+        .appie_content h1 {
+            cursor: pointer;
         }
         .appie_footer {
 			background-color: rgba(255,255,255,0.9);
@@ -142,6 +154,7 @@
     </script>    
   </head>
 <body>
+<div id="background"></div>
 <div id="appie_jumboframe">
 	
 </div>
